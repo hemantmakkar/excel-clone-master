@@ -12,7 +12,7 @@ can be applied to each cell (Two-Way Binding).
 
 ## See Live Demo
 
-### visit --> https://my-excel.netlify.app/
+### visit --> https://hemantmakkar.github.io/excel-clone-master/
 
 ## Screenshots
 
